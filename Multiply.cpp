@@ -7,5 +7,6 @@ int main()
     multy = a*b;
     cout<<"Multiply of "<<a<< " and "<<b << " is: "<<multy;
     cout<<"Process completed";
+    cout<<"Get back to origin";
     return 0;
 } 
